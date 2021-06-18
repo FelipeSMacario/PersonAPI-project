@@ -33,7 +33,6 @@ public class PersonDTO {
 
     private String birthDate;
 
-
     @Valid
     @NotEmpty
     private List<PhoneDTO> phones;
